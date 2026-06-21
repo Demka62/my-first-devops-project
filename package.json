@@ -1,0 +1,8 @@
+{
+  "name": "devops-javascript-project",
+  "version": "1.0.0",
+  "description": "Мой первый проект для DevOps",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
